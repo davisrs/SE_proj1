@@ -1,0 +1,9 @@
+//player class
+class Player
+{
+	public
+		//
+	private
+	string name;
+	int playerType
+}
